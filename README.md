@@ -1,0 +1,4 @@
+abode
+=====
+
+Home automation...
